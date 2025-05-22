@@ -1,0 +1,13 @@
+:root {
+  /* COLORS */
+  --white: hsla(0, 0%, 100%, 1);
+  --light-grey: hsla(0, 0%, 60%, 1);
+  --grey: hsla(0, 0%, 85%, 0.2);
+  --green: hsla(113, 56%, 26%, 1);
+  --black: hsla(260, 6%, 16%, 1);
+  --blue: hsl(210, 100%, 60%);
+
+  /* TYPOGRAPHY */
+  --f-family: 'IBM Plex Sans Devanagari', sans-serif;
+  --fw-medium: 500;
+}

@@ -1,0 +1,7 @@
+@font-face {
+  font-display: swap;
+  font-family: 'IBM Plex Sans Devanagari';
+  font-style: normal;
+  font-weight: 500;
+  src: url('/src/assets/fonts/IBMPlexSansDevanagari-Medium.ttf') format('truetype');
+}
