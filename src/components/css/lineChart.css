@@ -56,6 +56,11 @@ h2 {
   height: 400px;
 }
 
+.chart-wrapper p {
+  text-align: center;
+  color: var(--blue);
+}
+
 @media (max-width: 600px) {
   .chart-container {
     padding: 1rem;
