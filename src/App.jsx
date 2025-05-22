@@ -1,5 +1,5 @@
-import LineChart from './components/LineChart/LineChart';
-import './components/css/lineChart.css';
+import LineChart from './components/LineChart/line-chart';
+import './css/lineChart.css';
 
 function App() {
   return (

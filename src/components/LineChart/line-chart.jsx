@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import ChartTabs from './ChartTabs';
-import LineChartData from './LineChartData';
-import '../css/LineChart.css';
+import ChartTabs from './chart-tabs';
+import LineChartData from './line-chart-data';
+import '../../css/LineChart.css';
 
 const LineChart = () => {
   const [activeTab, setActiveTab] = useState('');

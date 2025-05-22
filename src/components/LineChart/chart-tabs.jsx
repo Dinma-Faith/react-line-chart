@@ -1,5 +1,5 @@
 import React from 'react';
-import "../css/lineChart.css";
+import '../../css/lineChart.css';
 
 const ChartTabs = ({ activeTab, setActiveTab }) => {
   return (
