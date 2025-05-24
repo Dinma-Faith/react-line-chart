@@ -1,4 +1,4 @@
-import LineChart from './components/LineChart/line-chart';
+import LineChart from './components/LineCharts/line-chart';
 import './css/lineChart.css';
 
 function App() {
